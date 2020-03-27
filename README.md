@@ -12,3 +12,9 @@ HACK FACE BOOK ACCS FOR FREE THROUGH BRUTEFORCE ATTCKS !!
   <p align="center">
   <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9bfOdkKJiRvwNtnC99JKHesABExqzPGmWJ7zv14Whe39LTYhpz-XMwtkqg&s=10' />  
 </p>
+
+# REQUIREMENTS 
+* ROOT/SUDO REMOVED 😈 
+* TOR CONNECTION 
+* LICENSE KEY (CONTACT TELEGRAM @AKASH_AM11)
+* BASIC KNOWLEDGE OF TERMUX!! 
