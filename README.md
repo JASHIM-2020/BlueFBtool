@@ -18,3 +18,24 @@ HACK FACE BOOK ACCS FOR FREE THROUGH BRUTEFORCE ATTCKS !!
 * TOR CONNECTION 
 * LICENSE KEY (CONTACT TELEGRAM @AKASH_AM11)
 * BASIC KNOWLEDGE OF TERMUX!! 
+
+
+ ## F-B SCRIPT
+ 
+HEY USER 👤,  THIS IS THE OFFICIAL BLUE DEVIL AND  THE F-B SCRIPT THAT IS A CONTENT OF BLUE_DEVIL ARE TESTED ON THE FOLLOWING :-
+* Kali Linux - Rolling Edition
+* Parrot OS - Rolling Edition
+* Linux Mint - 18.3 Sylvia
+* Ubuntu - 16.04.3 LTS
+* MacOS High Sierra
+* Arch Linux
+* Manjaro XFCE Edition 17.1.12
+* Black Arch
+* Userland App (For Android Users)
+* Termux App (For Android Users)
+
+##  PREREQUISITES ( Please verify if you have installed )
+
+* GIT
+* TOR
+* PYTHON
